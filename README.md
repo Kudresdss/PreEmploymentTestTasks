@@ -6,6 +6,8 @@ Pre-Employment test program tasks that have been given to me with my solutions t
 
 Program has one window that shows 3x3 square grid and some geolocation and meteorological data (they are not connected, it's just for testing candidate's programming skills). Squares are colored in 9 different colors that are randomly assigned when you start the program, also there's a 10th color that is vacant. Clicking on any square will swap it's color with the vacant color.
 
+!!Please unpack dependencies archive before compiling. I packed it because it has too many files to be commited at once.
+
 My solution functionality:
 - CMAKE build that can be built in many different OS
 - Frameworks used are very lightweight (no Qt), also they are all included in the repository or are attached to build via CMAKE's FetchContent
@@ -21,7 +23,5 @@ List of used frameworks:
 - DearImGui (GUI)
 - CPR (C++ web-requests)
 - nlohmann (JSON parser lib)
-
-!!Please unpack dependencies archive before compiling. I packed it because it has too many files to be commited at once.
 
 ![image](https://github.com/user-attachments/assets/0f1b08ce-07ef-4c65-aef9-2e24cabdb10f)
