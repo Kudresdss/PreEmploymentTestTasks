@@ -22,4 +22,6 @@ List of used frameworks:
 - CPR (C++ web-requests)
 - nlohmann (JSON parser lib)
 
+!!Please unpack dependencies archive before compiling. I packed it because it has too many files to be commited at once.
+
 ![image](https://github.com/user-attachments/assets/0f1b08ce-07ef-4c65-aef9-2e24cabdb10f)
