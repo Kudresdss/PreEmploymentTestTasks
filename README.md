@@ -5,8 +5,7 @@ Pre-Employment test program tasks that have been given to me with my solutions t
 **1. COLORED_SQUARE**
 
 Program has one window that shows 3x3 square grid and some geolocation and meteorological data (they are not connected, it's just for testing candidate's programming skills). Squares are colored in 9 different colors that are randomly assigned when you start the program, also there's a 10th color that is vacant. Clicking on any square will swap it's color with the vacant color.
-
-!!Please unpack dependencies archive before compiling. I packed it because it has too many files to be commited at once.
+(Please unpack dependencies archive before compiling. I packed it because it has too many files to be commited at once.)
 
 My solution functionality:
 - CMAKE build that can be built in many different OS
